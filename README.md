@@ -1,12 +1,18 @@
-<h2 align="center">Hi there, I'm Maksim!</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Hi there, I'm Maksim!</h3>
+<p align="center">Frontend Developer</p>
 
-<h2 align="center">Stack</h2>
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,jest&theme=dark" />
-  &emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=vite,git,github,postman,figma&theme=dark" />
+<h3>I work with</h3>
+
+<p>
+  <b>Languages</b> : <code>.html</code> <code>.css</code> <code>.js</code> <code>.ts</code>
+</p>
+
+<p>
+  <b>Frameworks & Libraries</b>: <code>.react</code> <code>.next</code> <code>.redux</code> <code>.zustand</code> <code>.jest</code>
+</p>
+
+<p>
+  <b>Tools</b>: <code>.vite</code> <code>.git</code> <code>.github</code> <code>.postman</code> <code>.figma</code>
 </p>
