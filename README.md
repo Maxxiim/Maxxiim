@@ -12,13 +12,14 @@
 </details>
 
 <details>
-  <summary><b>Frameworks & Libraries</b>: <code>.react</code> <code>.next</code> <code>.redux</code> <code>.zustand</code> <code>.jest</code></summary>
+  <summary><b>Frameworks & Libraries</b>: <code>.react</code> <code>.next</code> <code>.redux</code> <code>.jest</code> <code>.vitest</code> <code>.zustand</code>  </summary>
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,jest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,vitest&theme=dark"/>
+  <img width='48' height='48' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" />
 </details>
 
 <details>
-  <summary><b>Tools</b>: <code>.vite</code> <code>.git</code> <code>.github</code> <code>.postman</code> <code>.figma</code></summary>
+  <summary><b>Tools</b>: <code>.vite</code> <code>.git</code> <code>.github</code> <code>.postman</code> <code>.figma</code> <code>.webStorm</code> <code>.vscode</code> <code>.npm</code> </summary>
   <br>
-  <img src="https://skillicons.dev/icons?i=vite,git,github,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vite,git,github,postman,figma,webstorm,vscode,npm&theme=dark" />
 </details>
